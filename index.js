@@ -14,5 +14,4 @@
 //   core.setFailed(error.message);
 // }
 
-const nameToGreet = core.getInput('who-to-greet');
-console.log(`Hello cy and ${nameToGreet}!`);
+console.log(`Hello cy cycy`);
